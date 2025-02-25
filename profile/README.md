@@ -11,7 +11,7 @@ PowerAI Labs is dedicated to pushing the boundaries of **AI, Power Platform, and
 - 📚 **RAG & LLMs** – Exploring Retrieval-Augmented Generation (RAG) and local LLMs.
 
 ## 🔥 Featured Work
--  **RAGLab** – A fully local AI-powered document processing and search system.
+-  **Local RAG** – A fully local AI-powered document processing and search system.
 
 
 ## 🛠️ Tech Stack
